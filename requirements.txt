@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+# optional, for SHAP plots and an extra model
+shap
+xgboost
